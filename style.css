@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+}
+.box{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 20px;
+    margin: 10px;
+    width: 500px;
+    height: 500px; 
+}
+#boxx{
+    display: flex;
+}
+.pics{
+    width: 150px;
+    height: 150px; 
+    float: left;
+}
+.name{
+    font-size: 25px;
+}
+.status{
+    font-size: 15px;
+    float: left;
+    
+}
+.info{
+    text-align: left;
+}
+.description{
+    text-align: left;
+}
+.paragraph{
+    text-align:left;
+}
